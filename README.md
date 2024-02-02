@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanraj-27-04&label=Profile%20views&color=0e75b6&style=flat" alt="deepanraj-27-04" /> </p>
 
-- 🌱 I’m currently learning **opencv,mediapipe**
+- 🌱 I’m currently learning **MLOPS**
 
 - 💬 Ask me about **machine learning,deep learning**
 
