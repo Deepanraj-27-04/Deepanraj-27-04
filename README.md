@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm DEEPANRAJ</h1>
 <h3 align="center">"🤖 Diving into the World of Machine Learning and Deep Learning: 🌟 Unlocking Possibilities and Shaping Tomorrow! 🚀"</h3>
-
+<p align="left">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanraj-27-04&label=Profile%20views&color=0e75b6&style=flat" alt="deepanraj-27-04" /> </p>
-
 - 🌱 I’m currently learning **MLOPS**
 
 - 💬 Ask me about **machine learning,deep learning**
