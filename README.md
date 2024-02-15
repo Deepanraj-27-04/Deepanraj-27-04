@@ -1,7 +1,25 @@
 <h1 align="center">Hi 👋, I'm DEEPANRAJ</h1>
 <h3 align="center">"🤖 Diving into the World of Machine Learning and Deep Learning: 🌟 Unlocking Possibilities and Shaping Tomorrow! 🚀"</h3>
-<p align="left">
+<p align='center'>
+<!--    <a href="https:///">
+    <img 
+      height="25" 
+      src=""
+      target="blank"
+    >
+  </a> -->
+  &nbsp;&nbsp;
+  <a href="linkedin.com/in/deepanraj-sakthivel-756969224/">
+    <img 
+      height="25" 
+      src="https://img.shields.io/badge/%40DEEPANRAJ-LINKEDIN-%230B65C2?style=flat-square&labelColor=%23817777"
+      target="blank"
+    >
+  </a>
+  &nbsp;&nbsp;
+
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanraj-27-04&label=Profile%20views&color=0e75b6&style=flat" alt="deepanraj-27-04" /> </p>
 
 - 🌱 I’m currently learning  **MLOPS**
@@ -29,3 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanraj-27-04&show_icons=true&locale=en" alt="deepanraj-27-04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanraj-27-04&" alt="deepanraj-27-04" /></p>
+
+![DEEPANRAJ's Leetcode stats](https://leetcard.jacoblin.cool/Deepanraj_07?theme=light&font=Roboto)
+
