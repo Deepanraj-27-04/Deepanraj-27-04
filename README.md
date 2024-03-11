@@ -33,9 +33,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamdeepan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdeepan007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanraj" height="30" width="40" /></a>
-<a href="https://kaggle.com/deepanraj s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepanraj s" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@deepanrajs_21aid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@deepanrajs_21aid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepanraj-sakthivel-756969224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanraj" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/deepanrajs21adr010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepanraj s" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/deepanrajs_21aid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@deepanrajs_21aid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deepanraj_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepanraj_07" height="30" width="40" /></a>
 </p>
 
